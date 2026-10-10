@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,price,order_date
+1001,  ali khan ,Laptop,1,850.00,2026-01-05
+1002,SARA AHMED,Mouse,3,12.50,2026-01-06
+1003,bilal raza,Keyboard,2,25.00,2026-01-07
+1004,Ayesha Noor,Monitor,1,210.00,2026-01-08
+1004,Ayesha Noor,Monitor,1,210.00,2026-01-08
+1005,hamza ali,Mouse,,12.50,2026-01-09
+1006,zara malik,Laptop,1,850.00,not-a-date
+1007,usman tariq,Headphones,2,45.00,2026-01-11
+1008,Fatima Zahra,Keyboard,4,25.00,2026-01-12
+1009,omar farooq,Monitor,2,210.00,2026-01-13
