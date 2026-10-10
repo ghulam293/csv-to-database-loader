@@ -41,3 +41,4 @@ extract.py -> transform.py -> load.py -> validate.py -> reports.py
 - Rollback: load and validation share one transaction; a failed check undoes the load.
 - Rejected rows are kept with the reason, not silently dropped.
 - Every run is recorded in the pipeline_runs table.
+# csv-to-database-loader
